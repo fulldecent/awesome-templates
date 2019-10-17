@@ -6,6 +6,8 @@ Learn about creating a GitHub template repository at https://help.github.com/en/
 
 ## PHP
 
+* https://github.com/thephpleague/skeleton
+  * Recommended by author of https://phptherightway.com at https://twitter.com/philsturgeon/status/1184854558176169985
 * https://github.com/JeroenDeDauw/new-php-project
 
 ## Swift
